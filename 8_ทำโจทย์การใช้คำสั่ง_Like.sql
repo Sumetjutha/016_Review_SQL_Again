@@ -1,0 +1,13 @@
+SELECT * FROM Employee
+-- WHERE salary like '_00%'
+-- WHERE salary like '_75%'
+-- WHERE salary like '_75%'
+-- WHERE salary like '_5%0'
+-- WHERE salary like '7___0'
+-- WHERE salary like '70__0'
+-- WHERE salary like '70__0'
+-- WHERE address like 'กรุง%'
+-- WHERE address like 'Lon%'
+-- WHERE address like 'Arse___'
+-- WHERE address like '%ย%'
+WHERE address like 'L%N'
